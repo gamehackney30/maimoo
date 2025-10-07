@@ -1,4 +1,10 @@
 {
-  "permanent-key": ["hwid001", "hwid002"],
-  "vip999": []
+  "pernament_key": {
+    "hwid": ["hwid001", "hwid002"],
+    "expire": "2026-10-20"
+  },
+  "WIZZY_D1zOax": {
+    "hwid": ["pc01hwid"],
+    "expire": "2025-11-01"
+  }
 }
