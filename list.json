@@ -1,6 +1,10 @@
 {
+    "x": {
+    "hwid": ["a5e046403c5a4ba8153af3183249fd484441f6f8cd72ef7d6abe9c1e35c6d164"],
+    "expire": "2026-10-20"
+  },
   "pernament_key": {
-    "hwid": ["a5e046403c5a4ba8153af3183249fd484441f6f8cd72ef7d6abe9c1e35c6d164", "hwid002"],
+    "hwid": ["s", "hwid002"],
     "expire": "2026-10-20"
   },
   "WIZZY_D1zOax": {
