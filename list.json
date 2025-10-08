@@ -10,5 +10,9 @@
     "wiz_zyd0akxp": {
     "hwid": ["a5e046403c5a4ba8153af3183249fd484441f6f8cd72ef7d6abe9c1e35c6d164"],
     "expire": "2025-10-09"
+    },
+    "test": {
+    "hwid": ["a5e046403c5a4ba8153af3183249fd484441f6f8cd72ef7d6abe9c1e35c6d164"],
+    "expire": "2025-10-09"
   }
 }
