@@ -6,13 +6,41 @@
   "pernament__key": {
     "hwid": ["a1b2c3d4e5f6"],
     "expire": null
-  },
-    "wiz_zyd0akxp": {
-    "hwid": ["a5e046403c5a4ba8153af3183249fd484441f6f8cd72ef7d6abe9c1e35c6d164"],
-    "expire": "2025-10-09"
     },
-    "test": {
-    "hwid": ["a5e046403c5a4ba8153af3183249fd484441f6f8cd72ef7d6abe9c1e35c6d164"],
+    "wiz_q7dm9tva": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_f2x9v3hj": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_m7c4b1np": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_t9e2k6vr": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_p4w7a0sj": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_n8r5x2lm": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_k6j1z9ud": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_v5t3c8eh": {
+    "hwid": ["xxxx"],
+    "expire": "2025-10-09"
+  },
+    "wiz_b2y9r7qo": {
+    "hwid": ["xxxx"],
     "expire": "2025-10-09"
   }
 }
